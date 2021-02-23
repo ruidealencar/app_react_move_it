@@ -2,7 +2,7 @@ import { useState } from 'react';
 
 interface ButtonProps{
   color: string;
-  children: stringç
+  children: string;
 }
 
 export function Button(props: ButtonProps) {
