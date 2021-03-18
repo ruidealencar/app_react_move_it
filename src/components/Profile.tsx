@@ -9,9 +9,9 @@ export function Profile() {
 
   return (
     <div className={styles.profileContainer}>
-      <img src="https://github.com/ruidealencar.png" alt="Rui Frota"/>
+      <img src="https://img.icons8.com/plasticine/2x/bot.png" alt="Bot"/>
       <div>
-        <strong>Rui Frota</strong>
+        <input type="text" placeholder="Digite seu nome"/>
         <p>
           <img src="icons/level.svg" alt="Level"/>
           Level {level}

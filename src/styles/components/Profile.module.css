@@ -27,3 +27,13 @@
 .profileContainer div p img {
   margin-right: 0.5rem;
 }
+
+.profileContainer div input {
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: var(--title);
+  box-shadow: 0 0 0 0;
+  border: 0 none;
+  outline: 0;
+  background: var(--gray);
+}
